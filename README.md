@@ -33,3 +33,13 @@ var_dump($fileReport);
 In this example, the **VirusTotal** class is instantiated with the **$apiKey** variable, which should be set to your VirusTotal API key. The **fileScan** method is then used to scan a file, and the **fileReport** method is used to retrieve the report of a file using its hash.
 
 The **var_dump** function is used to display the contents of the **$fileScan** and **$fileReport** variables, which will contain the response from VirusTotal.
+
+### Authors
+
+**Ramazan Çetinkaya**
+
+- [github/ramazancetinkaya](https://github.com/ramazancetinkaya)
+
+### License
+
+Copyright © 2023, [Ramazan Çetinkaya](https://github.com/ramazancetinkaya).
